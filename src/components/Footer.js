@@ -21,8 +21,7 @@ const Footer = () => {
                   </p>
                   <h3 className="font-bold text-xl mb-4">Ireland Office</h3>
                   <p>
-                    A-430, Vashi Plaza, Sector-17, Vashi, Navi Mumbai - 400703
-                    Maharashtra India
+                    Carlow Town, Dublin, Ireland
                   </p>
                 </div>
               </div>

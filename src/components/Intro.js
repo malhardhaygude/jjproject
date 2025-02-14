@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../images/JJLogo.jpg";
+import img from "../images/JJLOGO_JPG.jpg"; 
 import { Link } from "react-router-dom";
 
 const Intro = () => {
@@ -19,18 +19,11 @@ const Intro = () => {
             data-aos-delay="500"
           >
             <h3 className="text-3xl  text-blue-900 font-bold">
-              J&J Global Trade We are there to help your trading
+              J&J Global Trade We are there to help your Trade
             </h3>
             <div>
               <p className="my-3 text-xl text-gray-600 font-semibold">
-                Welcome to J&J Global Trade PVT ltd. Thank you for your interest
-                in our Company. J&J Global Trade PVT ltd able to create its own
-                goodwill and a name for itself. We are primarily exporters of
-                all Wooden Handicraft products, wooden items, glass items,
-                handmade products, photo frames, Handmade Clothes Products,
-                Handmade Decorative Products, all types of wooden temple. The
-                products are of elegance, style and superior quality. We have a
-                well-established global clientele.
+              Welcome to J&J Global Trade LLP! We appreciate your interest in our company. J&J Global Trade LLP has built a strong reputation and earned recognition in the global market. We specialize in exporting a diverse range of premium-quality spices, fresh fruits, and vegetables. Our products are known for their rich flavors, freshness, and superior quality, meeting international standards. With a well-established global clientele, we take pride in delivering excellence and ensuring customer satisfaction.
               </p>
             </div>
 

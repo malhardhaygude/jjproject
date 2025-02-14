@@ -17,7 +17,7 @@ const Services = () => {
             <div className="w-24 border-b-4 border-blue-900"></div>
           </div>
           <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">
-            We are deeply committed to the growth and success of our clients.
+          We are passionately committed to empowering our clients' growth and success.
           </h2>
         </div>
 
@@ -34,9 +34,7 @@ const Services = () => {
                   Export
                 </h2>
                 <p className="text-md font-medium">
-                  We are Exporting best quality product around the world, You
-                  need best product on time you are at right place @ J&J Global
-                  Trade
+                We export premium-quality products worldwide. If you need the best products delivered on time, J&J Global Trade is your trusted partner!
                 </p>
               </div>
             </div>
@@ -49,12 +47,11 @@ const Services = () => {
                   src={img2}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center">
-                  Import agent
+                  Import Agent
                 </h2>
 
                 <p className="text-md font-medium">
-                  We help foreign company to introduce his best quality product
-                  in India and help them to find local partners in India
+                We assist foreign companies in bringing their top-quality products to India and connecting them with reliable local partners.
                 </p>
               </div>
             </div>
@@ -70,9 +67,7 @@ const Services = () => {
                   Sourcing Agent
                 </h2>
                 <p className="text-md font-medium">
-                  We are working as local partner of our foreign client to
-                  source best quality product from India as per client
-                  requirement and Specification
+                As a trusted local partner, we help our international clients source top-quality products from India, tailored to their specific requirements and specifications.
                 </p>
               </div>
             </div>
@@ -88,8 +83,7 @@ const Services = () => {
                   Consultations
                 </h2>
                 <p className="text-md font-medium">
-                  We are promoting global business, to make it easy we are
-                  giving Practical Export import training
+                We are promoting global business by offering practical export-import training, making it easier for you to navigate international trade. 
                 </p>
               </div>
             </div>
@@ -124,11 +118,7 @@ const Services = () => {
               </h3>
               <div>
                 <p className="my-3 text-xl text-gray-600 font-semibold">
-                  With over 10 years experience in software analysis and design
-                  and a deep understanding of the latest IT trends and
-                  solutions, we provide customized recommendations and
-                  strategies to help you improve your operations, reduce costs,
-                  and increase efficiency.
+                With over 1 year of experience in the import-export industry and a strong understanding of global trade trends and solutions, we offer tailored recommendations and strategies to help you streamline operations, reduce costs, and boost efficiency in your business.
                 </p>
               </div>
             </div>
@@ -149,10 +139,7 @@ const Services = () => {
               </h3>
               <div>
                 <p className="my-3 text-xl text-gray-600 font-semibold">
-                  We can collaborate with your existing tech team to scale
-                  existing software applications or design customized software
-                  applications that suits your everyday need and simplifies
-                  various processes.
+                We can collaborate with your team to optimize your existing import-export processes or develop customized solutions that streamline your operations and simplify various aspects of your global trade business.
                 </p>
               </div>
             </div>
