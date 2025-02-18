@@ -7,11 +7,15 @@ import Intro from '../components/Intro';
 import Portfolio from '../components/Portfolio';
 import Services from '../components/Services';
 import WhatsAppButton from '../components/WhatsappButton';
+import NavBar from '../components/Navbar/NavBar';
+import UnderConstruction from '../components/underconstruction/UnderConstruction';
 
 
 const Home = () => {
     return (
-        <>
+        <>  
+        <UnderConstruction/>
+            <NavBar />
             <Hero />
             <WhatsAppButton/>
             <Intro />

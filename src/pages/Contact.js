@@ -5,6 +5,7 @@ import {useDocTitle} from '../components/CustomHook';
 import axios from 'axios';
 // import emailjs from 'emailjs-com';
 import Notiflix from 'notiflix';
+import UnderConstruction from '../components/underconstruction/UnderConstruction';
 
 const Contact = () => {
     useDocTitle('J&J | Global Trade')
@@ -79,6 +80,7 @@ const Contact = () => {
         <>
             <div>
                 <NavBar />
+                <UnderConstruction/>
             </div>
             <div id='contact' className="flex justify-center items-center mt-8 w-full bg-white py-12 lg:py-24 ">
                 <div className="container mx-auto my-8 px-4 lg:px-20" data-aos="zoom-in">
@@ -192,11 +194,13 @@ const Contact = () => {
 
                         <div className="flex flex-col">
                         <h2 className="text-2xl">Call Us</h2>
-                        <p className="text-gray-400">Tel: 7977025741</p>
+                        <p className="text-gray-400">Mob:+91 7977025741</p>
+                        <p className="text-gray-400">Mob:+353 87 164 3168</p>
                         
                             <div className='mt-5'>
                                 <h2 className="text-2xl">Send an E-mail</h2>
-                                <p className="text-gray-400">info@jandjglobaltrade.com</p>
+                                <p className="text-gray-400">sandeep@jandjglobaltrade.com</p>
+                                <p className="text-gray-400">rushikesh@jandjglobaltrade.com</p>
                             </div>
                        
                         </div>

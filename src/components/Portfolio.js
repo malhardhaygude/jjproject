@@ -8,7 +8,7 @@ import img3 from "../images/vegetables.jpg";
 const Portfolio = () => {
   return (
     <>
-      <div className="my-4 py-4" id="portfolio">
+      <div className="my-4 py-10" id="portfolio">
       <div className="my-4 py-4">
           <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">
             Products
