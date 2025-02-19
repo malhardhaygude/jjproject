@@ -35,10 +35,11 @@ const Intro = () => {
               </p>
             </div>
             <Link
-              to="/contact"
+              to="//www.linkedin.com/company/j-j-global-trade-llp/?viewAsMember=true"
+              target="_blank"
               className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-2 my-4 text-lg shadow-xl rounded-2xl sm:w-auto sm:mb-0 group"
             >
-              Contact us
+              Connect us on LinkdIn
               <svg
                 className="w-4 h-4 ml-1 group-hover: translate-x-2"
                 xmlns="http://www.w3.org/2000/svg"

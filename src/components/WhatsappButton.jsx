@@ -4,7 +4,7 @@ import "../css/WhatsAppButton.css";
 const WhatsAppButton = () => {
   const handleClick = () => {
     // Replace with your WhatsApp number and message
-    const phoneNumber = "+919920549954";
+    const phoneNumber = "+917977025741";
     const message = "Hello, I need assistance! I want to know more about JandJ Global Trade and its Services";
     window.open(
       `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`,

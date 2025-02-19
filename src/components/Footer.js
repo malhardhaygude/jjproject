@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
+import { FaFacebookF, FaTwitter, FaGoogle, FaInstagram, FaLinkedinIn, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -31,7 +32,7 @@ const Footer = () => {
             <div className="col-span-6 md:col-span-6 lg:col-span-1 ml-7 mx-auto">
               <h6 className="text-[#013289] text-xl font-bold mb-4">LINKS</h6>
               <ul className="text-md">
-              <li className="mb-2">
+                <li className="mb-2">
                   <HashLink
                     to="#portfolio"
                     className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out"
@@ -58,7 +59,7 @@ const Footer = () => {
                 </li>
                 <li className="mb-2">
                   <HashLink
-                    to="#contact"
+                    to="contact#contact"
                     className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out"
                   >
                     Contact
@@ -102,7 +103,7 @@ const Footer = () => {
                     to="#"
                     className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out"
                   >
-                     Consultations
+                    Consultations
                   </Link>
                 </li>
               </ul>
@@ -115,41 +116,29 @@ const Footer = () => {
               <div className="text-md font-medium mb-6">
                 Follow us on social media.
               </div>
-              <div className="mx-auto text-center mt-2">
-                <ul className="flex justify-center mb-4 md:mb-0">
-                  <li>
-                    <Link
-                      to="#"
-                      className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out"
-                      aria-label="Twitter"
-                    >
-                      <svg
-                        className="w-8 h-8 fill-current"
-                        viewBox="0 0 32 32"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path d="M24 11.5c-.6.3-1.2.4-1.9.5.7-.4 1.2-1 1.4-1.8-.6.4-1.3.6-2.1.8-.6-.6-1.5-1-2.4-1-1.7 0-3.2 1.5-3.2 3.3 0 .3 0 .5.1.7-2.7-.1-5.2-1.4-6.8-3.4-.3.5-.4 1-.4 1.7 0 1.1.6 2.1 1.5 2.7-.5 0-1-.2-1.5-.4 0 1.6 1.1 2.9 2.6 3.2-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3.1 2.3-1.1.9-2.5 1.4-4.1 1.4H8c1.5.9 3.2 1.5 5 1.5 6 0 9.3-5 9.3-9.3v-.4c.7-.5 1.3-1.1 1.7-1.8z" />
-                      </svg>
-                    </Link>
-                  </li>
-                  <li className="ml-4">
-                    <Link
-                      to="#"
-                      className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out"
-                      aria-label="Facebook"
-                    >
-                      <svg
-                        className="w-8 h-8 fill-current"
-                        viewBox="0 0 32 32"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
-                        <path d="M14.023 24L14 17h-3v-3h3v-2c0-2.7 1.672-4 4.08-4 1.153 0 2.144.086 2.433.124v2.821h-1.67c-1.31 0-1.563.623-1.563 1.536V14H21l-1 3h-2.72v7h-3.257z" />
-                      </svg>
-                    </Link>
-                  </li>
-                </ul>
+              <div className="mb-4 flex justify-center space-x-2">
+                <a href="#!" className="btn text-white p-2 rounded-full bg-blue-700 hover:bg-blue-800">
+                  <FaFacebookF className="w-4 h-4" />
+                </a>
+                {/* <a href="#!" className="btn text-white p-2 rounded-full bg-blue-400 hover:bg-blue-500">
+                  <FaTwitter className="w-4 h-4" />
+                </a> */}
+                <a href="#!" className="btn text-white p-2 rounded-full bg-red-600 hover:bg-red-700">
+                  <FaGoogle className="w-4 h-4" />
+                </a>
+                <a href="#!" className="btn text-white p-2 rounded-full bg-purple-700 hover:bg-purple-800">
+                  <FaInstagram className="w-4 h-4" />
+                </a>
+                <a href="https://www.linkedin.com/company/j-j-global-trade-llp/?viewAsMember=true" target="_blank" className="btn text-white p-2 rounded-full bg-blue-600 hover:bg-blue-700">
+                  <FaLinkedinIn className="w-4 h-4" />
+                </a>
+                {/* <a href="#!" className="btn text-white p-2 rounded-full bg-gray-800 hover:bg-gray-900">
+                  <FaGithub className="w-4 h-4" />
+                </a> */}
               </div>
+
             </div>
+
           </div>
 
           <div className="flex flex-wrap items-center md:justify-between justify-center mx-auto px-4">
