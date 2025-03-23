@@ -19,11 +19,11 @@ const Intro = () => {
             data-aos-delay="500"
           >
             <h3 className="text-3xl  text-blue-900 font-bold">
-              J&J Global Trade We are there to help your Trade
+            Essenture Global Trade We are there to help your Trade
             </h3>
             <div>
               <p className="my-3 text-xl text-gray-600 font-semibold">
-              Welcome to J&J Global Trade LLP! We appreciate your interest in our company. J&J Global Trade LLP has built a strong reputation and earned recognition in the global market. We specialize in exporting a diverse range of premium-quality spices, fresh fruits, and vegetables. Our products are known for their rich flavors, freshness, and superior quality, meeting international standards. With a well-established global clientele, we take pride in delivering excellence and ensuring customer satisfaction.
+              Welcome to Essenture Global Trade LLP! We appreciate your interest in our company. Essenture Global Trade LLP has built a strong reputation and earned recognition in the global market. We specialize in exporting a diverse range of premium-quality spices, fresh fruits, and vegetables. Our products are known for their rich flavors, freshness, and superior quality, meeting international standards. With a well-established global clientele, we take pride in delivering excellence and ensuring customer satisfaction.
               </p>
             </div>
 

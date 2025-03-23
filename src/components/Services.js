@@ -34,7 +34,7 @@ const Services = () => {
                   Export
                 </h2>
                 <p className="text-md font-medium">
-                We export premium-quality products worldwide. If you need the best products delivered on time, J&J Global Trade is your trusted partner!
+                We export premium-quality products worldwide. If you need the best products delivered on time, Essenture Global Trade is your trusted partner!
                 </p>
               </div>
             </div>

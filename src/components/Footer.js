@@ -13,7 +13,7 @@ const Footer = () => {
             {/* 1st block */}
             <div className="col-span-12 lg:col-span-4">
               <div className="box-border border-b-4 border-blue-900 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
-                <h3 className="font-bold text-4xl mb-4">J&J Global Trade</h3>
+                <h3 className="font-bold text-4xl mb-4">Essenture Global Trade</h3>
                 <div className="text-md font-medium text-gray-600">
                   <h3 className="font-bold text-xl mb-4">India Office</h3>
                   <p>
@@ -147,7 +147,7 @@ const Footer = () => {
                 Copyright &copy; {new Date().getFullYear()}
                 {"  "}
                 <HashLink to="#" className=" hover:text-gray-900">
-                  J&J Global Trade
+                  Essenture Global Trade
                 </HashLink>
                 . All rights reserved.
               </div>

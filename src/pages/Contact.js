@@ -9,7 +9,7 @@ import Notiflix from 'notiflix';
 import UnderConstruction from '../components/underconstruction/UnderConstruction';
 
 const Contact = () => {
-    useDocTitle('J&J | Global Trade')
+    useDocTitle('Essenture | Global Trade')
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
     const [email, setEmail] = useState('')

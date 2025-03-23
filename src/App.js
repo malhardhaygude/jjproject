@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("J&J | Global Trade - We Help You to Deliver Best way!");
+  useDocTitle("Essenture | Global Trade - We Help You to Deliver Best way!");
 
   return (
     <>

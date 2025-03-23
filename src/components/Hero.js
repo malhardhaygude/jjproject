@@ -18,7 +18,7 @@ const Hero = () => {
                     <div id='hero' className="flex flex-col lg:flex-row py-8 justify-between text-center lg:text-left">
                         <div className="lg:w-1/2 flex flex-col justify-center" data-aos="zoom-in" data-aos-delay="200">
                             <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900">
-                            J&J Global Trade – Bringing Your Unique Business to the World.
+                            Essenture Global Trade – Bringing Your Unique Business to the World.
                             </h1>
                             <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500">We are a team of passionate and experienced traders committed to delivering your products worldwide.</div>
                             <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">
