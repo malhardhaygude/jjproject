@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../images/JJLOGO_JPG.jpg"; 
+import img from "../images/EssentureJPG.jpg"; 
 import { Link } from "react-router-dom";
 
 const Intro = () => {
