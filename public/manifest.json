@@ -3,17 +3,17 @@
   "name": "Essenture Global Trade Delivering Your Trade",
   "icons": [
     {
-      "src": "JJLOGO_PNG.ico",
+      "src": "EssenturePNG.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "JJLOGO_PNG192.png",
+      "src": "EssenturePNG192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "JJLOGO_PNG512.png",
+      "src": "EssenturePNG512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
